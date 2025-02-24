@@ -1,0 +1,2 @@
+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
+google/gemini-2.0-pro-exp-02-05:free
